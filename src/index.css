@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #FFE1E2;
+}
+
+img {
+  padding: 2rem;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+
+h1 {
+  font-weight: 200;
+  letter-spacing: 1rem;
+  color: #6E0D25;
+  padding-bottom: 3rem;
+}
+
+h5 {
+  color: #6E0D25;
+  letter-spacing: 0.5rem;
+  font-size: 1rem;
+}
